@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "templateId": "08ae0e59-67fd-4834-814a-38c32b312ed5",
+    "name": "Compare - 1",
+    "selectedItems": [
+        "IAN_1",
+        "IAN_2",
+        "IAN_3"
+    ],
+    "selectedProperties": {
+        "productDetails": [
+            "theme",
+            "description"
+        ],
+        "styleDetails": [
+            "material"
+        ],
+        "productInfo": [
+            "primary buyer"
+        ]
+    }
+}

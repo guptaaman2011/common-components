@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="176px" viewBox="0 0 174 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="factories-card-view" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="factories-unavailable-2" transform="translate(-729.000000, -244.000000)">
+            <g id="Group-2" transform="translate(719.000000, 227.000000)">
+                <rect id="bg" x="0" y="0" width="200" height="200"></rect>
+                <rect id="Rectangle" stroke="#444444" stroke-width="3" fill="#F0F0F0" x="40.5" y="18.5" width="135" height="173" rx="10"></rect>
+                <path d="M52,20 L58,20 L58,190 L52,190 C46.4771525,190 42,185.522847 42,180 L42,30 C42,24.4771525 46.4771525,20 52,20 Z" id="Rectangle-5" fill="#DDDDDD"></path>
+                <rect id="Rectangle-2" fill="#444444" x="58" y="19" width="3" height="172"></rect>
+                <path d="M92,91 C96.2552083,93.8763021 100.998698,95.3144531 106.230469,95.3144531 L106.081055,108.798828 L92,108.798828 L92,91 Z" id="Path-2" fill="#DDDDDD"></path>
+                <path d="M102,102 C106.255208,104.876302 111.998698,106.314453 119.230469,106.314453 L119.217285,113.798828 L102,113.798828 L102,102 Z" id="Path-2" fill="#DDDDDD"></path>
+                <rect id="Path" fill="#DDDDDD" x="87" y="109" width="24" height="5" rx="2"></rect>
+                <path d="M119.225079,104.19785 C122.830081,105.608919 142.165211,106.314453 147.230469,106.314453 L147.217285,113.798828 L119.225079,113.798828 L119.225079,104.19785 Z" id="Path-2" fill="#DDDDDD"></path>
+                <path d="M123.225079,88.1978495 C124.051257,88.5212321 125.987563,89.214596 127.10498,89.4638672 L127.10498,94.7988281 L123.225079,94.7988281 L123.225079,88.1978495 Z" id="Path-2" fill="#DDDDDD"></path>
+                <path d="M131.225079,90.1978495 C132.051257,90.5212321 133.987563,91.214596 135.10498,91.4638672 L135.10498,94.7988281 L131.225079,94.7988281 L131.225079,90.1978495 Z" id="Path-2" fill="#DDDDDD"></path>
+                <rect id="Rectangle-3" stroke="#444444" stroke-width="2" x="92" y="75" width="14" height="34" rx="2"></rect>
+                <rect id="Rectangle-7" fill="#444444" x="95" y="82" width="8" height="2" rx="1"></rect>
+                <rect id="Rectangle-7" fill="#444444" x="95" y="88" width="8" height="2" rx="1"></rect>
+                <rect id="Rectangle-8" stroke="#444444" stroke-width="2" x="119" y="95" width="28" height="19" rx="2"></rect>
+                <rect id="Rectangle-10" stroke="#444444" stroke-width="2" x="123" y="81" width="4" height="14" rx="2"></rect>
+                <rect id="Rectangle-10" stroke="#444444" stroke-width="2" x="131" y="85" width="4" height="10" rx="2"></rect>
+                <rect id="Rectangle-11" stroke="#444444" stroke-width="2" x="123" y="99" width="4" height="4" rx="2"></rect>
+                <rect id="Rectangle-11" stroke="#444444" stroke-width="2" x="131" y="99" width="4" height="4" rx="2"></rect>
+                <rect id="Rectangle-11" stroke="#444444" stroke-width="2" x="139" y="99" width="4" height="4" rx="2"></rect>
+                <rect id="Rectangle-9" fill="#444444" x="105" y="100" width="15" height="2" rx="1"></rect>
+                <rect id="Rectangle-9" fill="#444444" x="109" y="113" width="14" height="2" rx="1"></rect>
+                <rect id="Rectangle-3" stroke="#444444" stroke-width="2" x="87" y="109" width="24" height="5" rx="2"></rect>
+                <rect id="Rectangle-6" fill="#444444" x="40" y="190" width="144" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-6" fill="#444444" x="18" y="190" width="16" height="3" rx="1.5"></rect>
+                <path d="M83.5,123 L150.5,123 C151.328427,123 152,123.671573 152,124.5 C152,125.328427 151.328427,126 150.5,126 L83.5,126 C82.6715729,126 82,125.328427 82,124.5 C82,123.671573 82.6715729,123 83.5,123 Z M83.5,130 L150.5,130 C151.328427,130 152,130.671573 152,131.5 C152,132.328427 151.328427,133 150.5,133 L83.5,133 C82.6715729,133 82,132.328427 82,131.5 C82,130.671573 82.6715729,130 83.5,130 Z M83.5,137 L150.5,137 C151.328427,137 152,137.671573 152,138.5 C152,139.328427 151.328427,140 150.5,140 L83.5,140 C82.6715729,140 82,139.328427 82,138.5 C82,137.671573 82.6715729,137 83.5,137 Z M83.5,144 L136.5,144 C137.328427,144 138,144.671573 138,145.5 C138,146.328427 137.328427,147 136.5,147 L83.5,147 C82.6715729,147 82,146.328427 82,145.5 C82,144.671573 82.6715729,144 83.5,144 Z" id="Combined-Shape" fill="#DDDDDD"></path>
+                <path d="M74,121.252035 C77.4504544,122.140121 80,125.272321 80,129 L80,169 C80,173.418278 76.418278,177 72,177 L22,177 C17.581722,177 14,173.418278 14,169 L14,129 C14,125.272321 16.5495456,122.140121 20,121.252035 L20,113 C20,98.0883118 32.0883118,86 47,86 C61.9116882,86 74,98.0883118 74,113 L74,121.252035 Z M32,121 L62,121 L62,113 C62,104.715729 55.2842712,98 47,98 C38.7157288,98 32,104.715729 32,113 L32,121 Z" id="Combined-Shape" fill="#DDDDDD"></path>
+                <path d="M59.5,140.444352 C65.1359852,135.662015 68.5,128.61727 68.5,121 L68.5,109 C68.5,94.9167389 57.0832611,83.5 43,83.5 C28.9167389,83.5 17.5,94.9167389 17.5,109 L17.5,121 C17.5,128.61727 20.8640148,135.662015 26.5,140.444352 L26.5,109 C26.5,99.8873016 33.8873016,92.5 43,92.5 C52.1126984,92.5 59.5,99.8873016 59.5,109 L59.5,140.444352 Z" id="Combined-Shape" stroke="#444444" stroke-width="3" fill="#F0F0F0"></path>
+                <rect id="Rectangle-12" stroke="#444444" stroke-width="3" fill="#F0F0F0" x="11.5" y="118.5" width="63" height="53" rx="8"></rect>
+                <path d="M40,142.000366 C38.7855533,141.08816 38,139.635818 38,138 C38,135.238576 40.2385763,133 43,133 C45.7614237,133 48,135.238576 48,138 C48,139.635818 47.2144467,141.08816 46,142.000366 L46,152 C46,153.656854 44.6568542,155 43,155 C41.3431458,155 40,153.656854 40,152 L40,142.000366 Z" id="Combined-Shape" stroke="#444444" stroke-width="3" fill="#F0F0F0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

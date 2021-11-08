@@ -1,0 +1,15 @@
+body .ant-modal-mask{
+  z-index: 11000;
+}
+
+body .ant-modal-wrap{
+  z-index: 11101;
+}
+
+body .ant-dropdown{
+  z-index: 9001;
+}
+
+body .ant-notification {
+  z-index: 12000 !important;
+}

@@ -1,0 +1,22 @@
+{
+    "product": {
+        "productDetailsData": {
+            "ian": "IAN1",
+            "theme": "27.1 - Back to School (School beginners) (DDP 24/28)",
+            "description": "Colourful Table Lamp for Kids",
+            "specification": "- 15 × LEDs, approx.4.5W - Lumen : 350 lm - Color Temp : 3000K - Input : 230V ~ 50/60Hz, - Switch Type : ON/OFF Switch on the base"
+        },
+        "productInfoData": {
+            "primary buyer": "Joe Johnston",
+            "product creator": "Jan Schulmann"
+        }
+    },
+    "style": {
+        "styleDetailsData": {
+            "description": "Style A Pink/ White\nStyle B Light Blue/ White",
+            "material": "ABS, Mild Steel, Glass",
+            "unit weight": "640.00 g",
+            "dimension": "145 x 145 x 350 mm"
+        }
+    }
+}

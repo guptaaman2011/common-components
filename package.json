@@ -1,0 +1,116 @@
+{
+  "name": "lup-component-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/chat.cjs.js",
+  "module": "dist/chat.esm.js",
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
+    }
+  },
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/plugin-external-helpers": "^7.12.1",
+    "@babel/preset-stage-0": "^7.8.3",
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.53",
+    "@rollup/plugin-babel": "^5.2.1",
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-url": "^5.0.1",
+    "@storybook/addon-info": "^5.3.13",
+    "@storybook/addon-knobs": "^5.3.13",
+    "@svgr/rollup": "^2.4.1",
+    "@testing-library/react": "^11.0.2",
+    "antd": "^3.26.11",
+    "axios": "^0.20.0",
+    "babel-plugin-styled-components": "^1.11.1",
+    "babel-runtime": "^6.26.0",
+    "cross-env": "^5.1.4",
+    "events": "^3.3.0",
+    "less": "^3.12.2",
+    "react": "^16.10.0",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.12.0",
+    "react-mentions": "^4.0.2",
+    "react-scripts": "2.1.1",
+    "rollup": "^2.33.1",
+    "rollup-plugin-auto-external": "^2.0.0",
+    "rollup-plugin-peer-deps-external": "^2.2.3",
+    "rollup-plugin-postcss": "^3.1.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.7.4",
+    "@babel/runtime": "^7.14.6",
+    "@babel/runtime-corejs2": "^7.0.0",
+    "@storybook/addon-actions": "^5.3.13",
+    "@storybook/addon-links": "^5.3.13",
+    "@storybook/addon-storysource": "^5.3.13",
+    "@storybook/addons": "^5.3.13",
+    "@storybook/react": "^5.3.13",
+    "@styled-system/theme-get": "^5.1.2",
+    "@testing-library/dom": "^7.24.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.0.2",
+    "antd": "^3.26.11",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-import": "^1.11.0",
+    "babel-plugin-lodash": "^3.3.4",
+    "file-loader": "^6.1.1",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.4.2",
+    "metro-react-native-babel-preset": "^0.63.0",
+    "prop-types": "^15.7.2",
+    "rollup-plugin-visualizer": "^4.1.2",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
+  },
+  "peerDependencies": {
+    "@styled-system/theme-get": "^5.1.2",
+    "antd": "^3.26.11",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
+  },
+  "scripts": {
+    "prepare": "",
+    "start": "",
+    "build": "rollup -c rollup.config.js",
+    "build-rollup": "npm run build-ib",
+    "build-ib": "rollup -c rollup.config.ib.js",
+    "test": "jest --watch",
+    "coverage": "jest --coverage",
+    "storybook": "start-storybook -p 6006 -c .storybook watch-css -s ./data",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ],
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+.mentions { 
+  position: relative;  
+  margin: 0;
+  width: 100%;
+  font-size: 14px;
+  line-height: 22px;
+  vertical-align: center;
+  word-break: break-all;
+  word-wrap: pre-wrap; 
+  color: #444444;
+}
+
+textarea::placeholder {
+  color: #888888;
+}
+
+.mentions__input, .mentions__control {
+  padding: 4px 11px;
+}
+
+.mentions--singleLine .mentions__control {
+  caret-color: black;
+  padding: 6px 11px;
+}
+
+.mentions--singleLine .mentions__higlighter {
+    color: inherit !important; 
+}
+
+.mentions--singleLine .mentions__highlighter .mentions__highlighter__substring {
+  visibility: visible !important;
+}
+
+.mentions--singleLine .mentions__input {
+  outline: none;
+  border: none;
+  color: transparent;
+}
+
+.mentions--multiLine .mentions__control {
+  caret-color: black;
+}
+
+.mentions--multiLine .mentions__highlighter {
+    color: inherit !important;
+}
+
+.mentions--multiLine .mentions__highlighter .mentions__highlighter__substring {
+  visibility: visible !important;
+}
+
+.mentions--multiLine .mentions__input {
+  border: none;
+  outline: none;
+  color: transparent;
+}
+
+.mentions__suggestions {
+  margin-top: 0px !important;
+}
+
+.mentions__suggestions__list {
+  background-color: white;
+  margin-top: 0px;
+  padding: 13px 5px 6px 5px !important;
+  box-shadow: 0px 1px 8px rgba(136, 136, 136, 0.35);
+  border-radius: 4px;
+  overflow: auto;
+  max-height: 260px;
+}
+
+.mentions__suggestions__item {
+  padding: 2px 15px 2px 9px;;
+  margin-bottom: 6px
+}
+
+.mentions__suggestions__item--focused {
+  background-color: #E4F1F8;
+}
+
+.mentions__mention {
+  color: #4C9FD2;
+}
